@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noches de insomnio por ti
+
+This log tracks the cryptographic history and versioning for the song **Noches de insomnio por ti** (noches-de-insomnio-por-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:40:15.014702 | `v1` | `a3871b6db3f073ab33de23cf79ad333d925f32b5c0c06fd98f0319eb05af3041` | `1fb0e458b5219e02df318aa60ca7274791f495ec1ddcf84522f8fbc604ab5b5f` | `2026-06-14_noches-de-insomnio-por-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

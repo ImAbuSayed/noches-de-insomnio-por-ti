@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noches de insomnio por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
+| **Get License** | [Get a Licensing Quote for Noches de insomnio por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a3871b6db3f073ab33de23cf79ad333d925f32b5c0c06fd98f0319eb05af3041` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
