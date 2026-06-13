@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noches de insomnio por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
+| **Get License** | [Get License For Noches de insomnio por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noches-de-insomnio-por-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra madrugada que me paso pensándote,
+> El humo en el aire y sigo aquí imaginándote.
+> Baby, tú eres la droga que me está matando,
+> Pero es un veneno que sigo buscando.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
